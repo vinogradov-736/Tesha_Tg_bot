@@ -1,0 +1,52 @@
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.csproj.AssemblyReference.cache
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.AssemblyInfoInputs.cache
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.AssemblyInfo.cs
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Tg_Bot.exe
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Tg_Bot.deps.json
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Tg_Bot.runtimeconfig.json
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Tg_Bot.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Tg_Bot.pdb
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Telegram.Bot.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.csproj.CopyComplete
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\obj\Debug\net7.0\refint\Tg_Bot.dll
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.pdb
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.genruntimeconfig.cache
+C:\Users\Dasha\OneDrive\Рабочий стол\Tg_Bot\Tg_Bot\obj\Debug\net7.0\ref\Tg_Bot.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Tg_Bot.exe
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Tg_Bot.deps.json
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Tg_Bot.runtimeconfig.json
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Tg_Bot.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Tg_Bot.pdb
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\Telegram.Bot.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.csproj.AssemblyReference.cache
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.AssemblyInfoInputs.cache
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.AssemblyInfo.cs
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.csproj.CoreCompileInputs.cache
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.csproj.Up2Date
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\obj\Debug\net7.0\refint\Tg_Bot.dll
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.pdb
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\obj\Debug\net7.0\Tg_Bot.genruntimeconfig.cache
+C:\Users\ivanv\Desktop\bot.zip_pass_123\bot\bot\Tg_Bot\Tg_Bot\obj\Debug\net7.0\ref\Tg_Bot.dll
